@@ -3,4 +3,4 @@
 
 I'm a College Professor and Researcher at [_Universidade Federal do Rio Grande do Norte_](http://ufrn.br) in Natal, Brazil.
 
-I teach undergraduate and graduate courses in Algorithms, Data Structures, Web Development, Data Science and Blockchain.
+I teach undergraduate and graduate courses in Web Development, Algorithms, Data Structures, Web Development, Data Science and Blockchain.
